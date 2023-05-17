@@ -1,7 +1,11 @@
 Hello, welcome to Aria's GitHub page!
+
 Aria is still learning a lot about this, so please be patient with her!
+
 Also, Aria recommends that you check out RavioliMavioli!
+
 https://github.com/RavioliMavioli
+
 RavioliMavioli is a huge inspiration to her!
 
 Programming Languages:
