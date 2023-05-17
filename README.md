@@ -6,6 +6,8 @@
 - Animation
 - VTubing
 - Programming(obviously)
+
+- Check out:
 - https://github.com/RavioliMavioli
 
 - 🌱 I’m currently learning:
