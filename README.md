@@ -9,11 +9,13 @@ https://github.com/RavioliMavioli
 RavioliMavioli is a huge inspiration to her!
 
 Programming Languages:
-- Python
-- C
-- C++
+=> Python
+=> C
+=> C++
 
 She is still learning more about them though!
+
+More info: https://ariacrestia.carrd.co/
 
 <!---
 AriaCrestia/AriaCrestia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
