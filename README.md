@@ -1,29 +1,14 @@
-- 👋 Hi, I’m @AriaCrestia
+Hello, welcome to Aria's GitHub page!
+Aria is still learning a lot about this, so please be patient with her!
+Also, Aria recommends that you check out RavioliMavioli!
+https://github.com/RavioliMavioli
+RavioliMavioli is a huge inspiration to her!
 
-- 👀 I’m interested in:
-- Novels
-- Anime illustrations
-- Animation
-- VTubing
-- Programming(obviously)
-
-- Check out:
-- https://github.com/RavioliMavioli
-
-- 🌱 I’m currently learning:
+Programming Languages:
 - Python
-- C#
-
-- 💞️ I’m looking to collaborate on - actually, I don't know how to collab, don't expect anything 😂
-- Seriously though, I doubt anyone would want to collab anyway.
-
-
-- 📫 How to reach me:
-- Discord - Aria Crestia#5579
-- Twitter - https://twitter.com/AriaCrestia
-- DeviantArt - ariacrestia
-- Instagram - @ariacrestia
-- YouTube - @AriaCrestia
+- C
+- C++
+She is still learning more about them though!
 
 <!---
 AriaCrestia/AriaCrestia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
