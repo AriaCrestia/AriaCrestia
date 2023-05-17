@@ -9,8 +9,11 @@ https://github.com/RavioliMavioli
 RavioliMavioli is a huge inspiration to her!
 
 Programming Languages:
+
 => Python
+
 => C
+
 => C++
 
 She is still learning more about them though!
