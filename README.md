@@ -1,6 +1,6 @@
-Hello, welcome to Aria's GitHub page!
+My GitHub page.
 
-Check them out(inspiration): https://github.com/RavioliMavioli
+Check out: https://github.com/RavioliMavioli
 
 <!---
 AriaCrestia/AriaCrestia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
