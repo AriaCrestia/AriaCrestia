@@ -1,4 +1,14 @@
-My GitHub page.
+# Aria Crestia Profile
+- Self taught coder
+- looking for ideas
+
+## Programming Languages
+- Python
+- Javascript
+- HTML
+- CSS
+
+## Website: https://ariacrestia.github.io/
 
 Check out: https://github.com/RavioliMavioli
 
