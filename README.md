@@ -1,6 +1,5 @@
-# Aria Crestia Profile
-- Self taught coder
-- looking for ideas
+# Hi, I'm Aria
+- I'm a casual artist and software dev
 
 ## Programming Languages
 - Python
